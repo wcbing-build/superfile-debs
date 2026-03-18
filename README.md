@@ -1,6 +1,6 @@
-自行打包的 [superfile](https://github.com/yorukot/superfile)，适用于 Debian 或基于 Debian 的发行版。
+自行打包的 [superfile](https://github.com/yorukot/superfile)，适用于基于 Debian 的发行版。
 
-Self-packaged [superfile](https://github.com/yorukot/superfile), suitable for Debian and Debian-based distros.
+Self-packaged [superfile](https://github.com/yorukot/superfile), suitable for Debian-based distro.
 
 
 ## Usage/用法

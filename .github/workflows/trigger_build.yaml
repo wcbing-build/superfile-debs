@@ -1,10 +1,10 @@
-name: build and release by remote trigger
+name: build and release
 
 on:
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Upstream Releases Tag'
+        description: 'Tag of upstream latest release'
         required: true
         type: string
 
